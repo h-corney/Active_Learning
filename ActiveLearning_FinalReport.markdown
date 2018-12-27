@@ -215,7 +215,7 @@ Analysis: What were your results?
 
 
 
-![Accuracy_by_iteration](https://github.com/h-corney/Active_Learning/Accuracy_by_iteration.png)
+![](Accuracy_by_iteration.png?raw=true)
 
 The bar graph above shows the average accuracy for each iteration which
 was calculated using the Q sites. There is a significant increase in
